@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-premiahome-dev-122517-authRole",
+      "UnauthRoleArn": "arn:aws:iam::748760824681:role/amplify-premiahome-dev-122517-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::748760824681:role/amplify-premiahome-dev-122517-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-premiahome-dev-122517-deployment",
+      "UnauthRoleName": "amplify-premiahome-dev-122517-unauthRole",
+      "StackName": "amplify-premiahome-dev-122517",
+      "StackId": "arn:aws:cloudformation:eu-central-1:748760824681:stack/amplify-premiahome-dev-122517/f852a6a0-9817-11ee-97cb-06321470acc1",
+      "AmplifyAppId": "d1czyom3hr3pw"
+    }
+  }
+}
